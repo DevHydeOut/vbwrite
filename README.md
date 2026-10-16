@@ -1,5 +1,5 @@
-# Writing Assistant
+# VBWrite
 
 A Windows tray app by Vimal Bhatt that fixes grammar and rewrites selected text in any tone.
 
-Download `WritingAssistant.exe` from the [latest release](https://github.com/DevHydeOut/writing-assistant/releases/latest). Installed copies update themselves from Settings → About.
+Download `VBWrite.exe` from the [latest release](https://github.com/DevHydeOut/vbwrite/releases/latest). Installed copies update themselves from Settings → About.
