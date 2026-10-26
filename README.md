@@ -74,7 +74,9 @@ You can change all of these, and give each preset its own shortcut, in **Setting
 
 ## 🐞 Report a problem
 
-Something not working? Please **[open an issue](https://github.com/DevHydeOut/vbwrite/issues/new/choose)** and include:
+Something not working? The quickest way is **Settings → About → Report a Problem** in the app. It opens a bug report with your version and the last error already filled in.
+
+You can also **[open an issue](https://github.com/DevHydeOut/vbwrite/issues/new/choose)** directly. Please include:
 
 - Your VBWrite version (**Settings → About**) and Windows version
 - What you did, what you expected, and what happened instead
